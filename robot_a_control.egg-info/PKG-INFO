@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: robot_a_control
+Version: 0.1.0
+Summary: Programmation pick and place du Robot A - Youvens Appolon
+Maintainer: Youvens Appolon
+Maintainer-email: youvens.appolon@example.com
+License: MIT
+Requires-Dist: setuptools
+Dynamic: license
+Dynamic: maintainer
+Dynamic: maintainer-email
+Dynamic: requires-dist
+Dynamic: summary
