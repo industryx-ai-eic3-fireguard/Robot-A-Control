@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>robot_a_control</name>
+  <version>0.1.0</version>
+  <description>Programmation du Robot A (bras manipulateur, pick &amp; place) - INDUSTRY-X AI, equipe FIREGUARD-X. Auteur : Youvens Appolon.</description>
+  <maintainer email="youvens.appolon@example.com">Youvens Appolon</maintainer>
+  <license>MIT</license>
+
+  <depend>rclpy</depend>
+  <depend>std_msgs</depend>
+  <depend>geometry_msgs</depend>
+
+  <test_depend>python3-pytest</test_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
